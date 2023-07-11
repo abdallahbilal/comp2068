@@ -1,0 +1,34 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: white;
+}
+header{
+  background-color: darkgoldenrod;
+  height: 80px;
+}
+header >nav > li>a{
+  text-decoration: none;
+  text-align: center;
+  align-items: center;
+  padding-right: 40px;
+}
+header > nav > li{
+list-style:none ;
+text-align: center;
+  align-items: center;
+  padding-top: 35px;
+}
+
+h1,h2{
+
+  align-items: center;
+  text-align: center;
+}
+
+h1{
+  padding-top: 25px;
+}
